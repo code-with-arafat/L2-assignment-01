@@ -1,4 +1,4 @@
-# TypeScript Assignment 01: Problem Solving with TypeScript & OOP
+# TypeScript Assignment 01: Problem Solving with TypeScript
 
 This repository contains my solutions for the TypeScript assignment 01.
 
